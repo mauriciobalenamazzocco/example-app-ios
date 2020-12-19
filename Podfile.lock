@@ -37,7 +37,7 @@ DEPENDENCIES:
   - ParticleSetup
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - 1PasswordExtension
     - AFNetworking
     - Particle-SDK
@@ -51,4 +51,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: cd4d3a886c8a6d599889ff5011d997b313551d2d
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.10.0
